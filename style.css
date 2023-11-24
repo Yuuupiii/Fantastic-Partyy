@@ -1,0 +1,59 @@
+body {
+    background-color: #D1E7CE;
+    color: #5B7553;
+}
+
+header {
+    background-color: #B4DABE;
+}
+
+footer {
+    background-color: #AAC9AF;
+}
+
+main img {
+    width: 60px;
+}
+
+.imgg {
+    width: 500px;
+    height: 300px;
+}
+
+main h1, main h2 {
+    text-align: center;
+}
+
+header header{
+    color: #415D43;
+}
+
+a {
+    color: #2F422A;
+    text-decoration: none;
+    border: 1px outset #72846D;
+}
+
+nav a {
+    border: 1px solid #4A8256;
+    text-decoration: none;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+h2 {
+    background-color: #B4DABE;
+}
+
+main img {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+.qwe {
+    text-align: left;
+}
